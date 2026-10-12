@@ -1,0 +1,11 @@
+{
+  "version": "1.0.3",
+  "notes": "Perbaikan riwayat, absen tersimpan, timer lanjut otomatis",
+  "pub_date": "2026-10-12T03:50:10.432Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMmJZajlHbmx2aWhnb1oxczd1QkkwTTRqejFrb2NmQVY5dVdPc2Q1T3JXVWdiWHA5eFlHemZRNlpZcGs4VklSa0pwSk5sQW9uMGxQbDlDdmJoYkVaRStJeEhVODBCOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc2OTcyCWZpbGU6V0ZBIFN5c3RlbV8xLjAuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMKTnFMTE1xM0FlYWFYYjlCeHdFOUdVOVczR2lnSWtWMUdmbU1Md0NjTVh0blBSVzM2a1VsTDROWWtkaGhIWXVFZ0k0c2xGTlViRC9aYjhyWEpHZm1KRFE9PQo=",
+      "url": "https://wfa-system-v2-nine.vercel.app/updates/wfa-system_1.0.3_x64-setup.exe"
+    }
+  }
+}
